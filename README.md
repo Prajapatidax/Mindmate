@@ -133,6 +133,15 @@ This project is developed for educational and innovation purposes.
 
 ---
 
+## 👥 Team Members
+
+* **Ayush Prajapati**
+* **Dax Prajapati**
+* **Dhruvi Solanki**
+* **Hardi Chavda**
+
+---
+
 ## 👨‍💻 Author
 
 **Dax Prajapati**
